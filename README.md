@@ -1,2 +1,2 @@
-# Building-a-Design-System-with-MERN
-Building a Design System with MERN, Published by Packt
+# Design-and-Build-a-Full-Stack-React-Admin-Dashboard-and-Template
+Design and Build a Full-Stack React Admin Dashboard and Template, Published by Packt
